@@ -1,2 +1,2 @@
-# IEEE-computer-society-mjcet
-Website of IEEE CS MJCET
+# IEEE-Computer-Society-MJCET.github.io
+Offcial Student Chapter Website of IEEE Computer Society MJCET
